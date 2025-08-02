@@ -32,5 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
+/src/main/resources/application.properties
+
+
 # Don’t track this file (contains DB credentials)
 /src/main/resources/application.properties
